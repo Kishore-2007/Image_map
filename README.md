@@ -446,6 +446,8 @@ Website:5 CODE
 ```
 
 # OUTPUT
+IMAGE MAP:
+![Screenshot 2024-12-07 001132](https://github.com/user-attachments/assets/4d2c0c4f-d523-408a-a22c-e988fd891c93)
 WEBSITE:1
 ![Screenshot 2024-12-07 001200](https://github.com/user-attachments/assets/b794778e-42a2-4d40-b744-045f824d33c8)
 WEBSITE:2
